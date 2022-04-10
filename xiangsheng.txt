@@ -1,0 +1,8 @@
+实验一 Git&Github
+实验目的
+熟悉版本控制器git的操作，理解其原理，搭建本地git环境，连接到github。
+实验步骤
+（1）下载git软件并安装，Git下载https://git-scm.com/downloads. Linux/Windows/Mac-OS，构建本地git目录并配置；（可参考第一章云计算概述-2.ppt）
+（2）注册github用户，并将git与github连接，实现本地git操作可以将本地文件上传至自己的github账号中。(可参考第一章云计算概述-2.ppt及网上相关教程)
+实验结果
+熟悉git的初始化、新建、提交等命令，将自己的某个文件通过本地git命令上传至github网站上。
